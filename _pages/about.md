@@ -1,6 +1,6 @@
 ---
 layout: about
-# title: about
+title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -28,3 +28,8 @@ announcements:
 ---
 
 A total failure trying to leave some traces in the world.
+
+Reach me at 
+<a href="mailto:hongfeij@outlook.com"><i class="fa-solid fa-envelope"></i></a> 
+<a href="https://github.com/hongfeij"><i class="fa-brands fa-github"></i></a> 
+<!-- <a href="https://scholar.google.com/citations?user=your_id"><i class="ai ai-google-scholar"></i></a>  -->
