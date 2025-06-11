@@ -179,7 +179,7 @@ exclude:
   - _layouts/archive.liquid
   - _plugins/external-posts.rb
   - assets/jupyter/blog.ipynb
-  
+
   # Projects
   - _projects/
   - _pages/projects.md
