@@ -6,7 +6,8 @@ related_posts: false
 ---
 
 <!-- You wanna guess the colour of my underwear? -->
-I will serve as a Student Volunteer and present our work, *"Reshaping Craft Learning: Insights from Designing an AI-Augmented MR System for Wheel-Throwing,"* at DIS'25. This might mark the end, or perhaps the beginning, of my research journey.
+
+I will serve as a Student Volunteer and present our work, _"Reshaping Craft Learning: Insights from Designing an AI-Augmented MR System for Wheel-Throwing,"_ at DIS'25. This might mark the end, or perhaps the beginning, of my research journey.
 
 <!-- ---
 layout: post
