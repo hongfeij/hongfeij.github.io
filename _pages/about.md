@@ -16,7 +16,7 @@ profile:
     <a href="https://github.com/hongfeij" style="margin-left: 0.5rem;">
     <i class="fa-brands fa-github" style="font-size: 1.5rem;"></i>
     </a>
-    <a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}{% endif %}" style="margin-left: 0.5rem;" target="_blank" rel="noopener noreferrer">
+    <a href="assets/pdf/hongfei-cv.pdf" style="margin-left: 0.5rem;" target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-file-pdf" style="font-size: 1.5rem;"></i>
     </a>
 
@@ -69,7 +69,7 @@ Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI inter
   </details>
 </div>
 
-If you want to know more about my work as a designer, please visit <a href="https://www.hongfeiji.com" target="_blank">[my website]</a>.
+Yes, I’m currently seeking Ph.D. opportunities for Spring 2026 and Fall 2026. If you want to know more about my work as a designer, please visit <a href="https://www.hongfeiji.com" target="_blank">[my website]</a>.
 
 Social media can be volatile over time, so I'm currently building a personal blog site for documentation. Stay tuned :)
 
