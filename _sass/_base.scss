@@ -395,6 +395,23 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Summary in Profile Content
+
+.summary-link {
+  cursor: pointer;
+  color: var(--global-theme-color);
+  font-size: 1rem;
+  border-bottom: 1px dashed var(--global-theme-color);
+  display: inline-block;
+}
+
+.research-sections {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
 // Social (bottom)
 
 .social {
