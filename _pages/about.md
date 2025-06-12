@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -29,13 +29,17 @@ announcements:
 
 A total failure trying to leave some traces in the world.
 
-Reach me at 
+Reach me at
 <a href="mailto:hongfeij@outlook.com" style="margin-left: 0.5rem;">
-  <i class="fa-solid fa-envelope" style="font-size: 1.5rem;"></i>
+<i class="fa-solid fa-envelope" style="font-size: 1.5rem;"></i>
 </a>
 <a href="https://github.com/hongfeij" style="margin-left: 0.5rem;">
-  <i class="fa-brands fa-github" style="font-size: 1.5rem;"></i>
+<i class="fa-brands fa-github" style="font-size: 1.5rem;"></i>
+</a>
+<a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ 'assets/pdf/' | append: page.cv_pdf | relative_url }}{% endif %}" style="margin-left: 0.5rem;" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-file-pdf" style="font-size: 1.5rem;"></i>
 </a>
 
 Social media can be volatile over time, so I'm currently building a personal blog site for documentation. Stay tuned :)
+
 <!-- <a href="https://scholar.google.com/citations?user=your_id"><i class="ai ai-google-scholar"></i></a>  -->

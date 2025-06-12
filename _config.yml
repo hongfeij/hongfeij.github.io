@@ -50,7 +50,7 @@ footer_fixed: false
 search_enabled: true
 socials_in_search: false
 posts_in_search: false
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -197,6 +197,9 @@ exclude:
   - _pages/dropdown.md
   - _pages/books.md
   - _pages/about_einstein.md
+
+  # CV
+  - _pages/cv.md
 
   - bin/
   - CONTRIBUTING.md
@@ -656,14 +659,14 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
+  # - work
   - education
   - publications
-  - projects
+  # - projects
   - volunteer
   - awards
-  - certificates
+  # - certificates
   - skills
   - languages
-  - interests
+  # - interests
   - references
