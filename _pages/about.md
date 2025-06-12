@@ -21,6 +21,8 @@ announcements:
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+cv_pdf: hongfei-cv.pdf # you can also use external links here
+
 # latest_posts:
 #   enabled: true
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
@@ -36,7 +38,7 @@ Reach me at
 <a href="https://github.com/hongfeij" style="margin-left: 0.5rem;">
 <i class="fa-brands fa-github" style="font-size: 1.5rem;"></i>
 </a>
-<a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ 'assets/pdf/' | append: page.cv_pdf | relative_url }}{% endif %}" style="margin-left: 0.5rem;" target="_blank" rel="noopener noreferrer">
+<a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}{% endif %}" style="margin-left: 0.5rem;" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf" style="font-size: 1.5rem;"></i>
 </a>
 
