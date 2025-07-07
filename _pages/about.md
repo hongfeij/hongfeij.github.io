@@ -38,7 +38,7 @@ cv_pdf: hongfei-cv.pdf # you can also use external links here
 
 <!-- A total failure trying to leave some traces in the world. -->
 
-Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI interaction beyond graphic user interfaces**. My current research explores **how human-AI communication influences and integrates into embodied activities in daily life, work, and play**. I'm also eager to connect the societal perspective I developed through my architecture background to questions about **how AI can shape the future of embodied work**.
+Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI interaction beyond graphical user interfaces**. My current research explores **how human-AI communication influences and integrates into embodied activities in daily life, work, and play**. I'm also eager to connect the societal perspective I developed through my architecture background to questions about **how AI can shape the future of embodied work**.
 
 <div class="research-sections">
   <details>
@@ -46,7 +46,7 @@ Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI inter
       [Research Journey]
     </summary>
     <p style="margin-top: 0.5em;">
-      I previously worked with Professor [Dina El Zanfaly](https://www.design.cmu.edu/profiles/dina-el-zanfaly) from the School of Design in the [EM]BODIED COMPUTATIONS LAB (https://embodiedcomputations.org/) on AI-XR for welding training and ceramic making. During my master’s thesis at the School of Architecture, Carnegie Mellon University, I was advised by Professor [Daragh Byrne](http://daraghbyrne.me/) and [Sinan Goral](https://www.sinangoral.com/). My thesis focused on LLM hallucination in embodied media, and I earned a Master of Science in Computational Design. Currently, I am collaborating with postdoctoral fellow [Georgie Qiao Jin](http://georgiejin.com/) at Carnegie Mellon University’s Human-Computer Interaction Institute (HCII) on research exploring AI in children’s physical activity play.
+      I previously worked with Professor <a href="https://www.design.cmu.edu/profiles/dina-el-zanfaly">Dina El Zanfaly</a> from the School of Design in the <a href="https://embodiedcomputations.org/">[EM]BODIED COMPUTATIONS LAB</a> on AI-XR for welding training and ceramic making. During my master’s thesis at the School of Architecture, Carnegie Mellon University, I was advised by Professor <a href="http://daraghbyrne.me/">Daragh Byrne</a> and <a href="https://www.sinangoral.com/">Sinan Goral</a>. My thesis focused on LLM hallucination in embodied media, and I earned a Master of Science in Computational Design. Currently, I am collaborating with postdoctoral fellow <a href="http://georgiejin.com/">Georgie Qiao Jin</a> at Carnegie Mellon University’s Human-Computer Interaction Institute (HCII) on research exploring AI in children’s physical activity play.
     </p>
   </details>
 
