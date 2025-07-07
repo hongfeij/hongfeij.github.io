@@ -38,7 +38,7 @@ cv_pdf: hongfei-cv.pdf # you can also use external links here
 
 <!-- A total failure trying to leave some traces in the world. -->
 
-Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI interaction beyond digital interfaces**. My current research explores **how human-AI communication influences embodied activities in work, daily life, and play**. I'm also eager to connect the societal perspective I developed through my architecture background to questions about **how AI can shape the future of embodied work**.
+Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI interaction beyond graphic user interfaces**. My current research explores **how human-AI communication influences and integrates into embodied activities in daily life, work, and play**. I'm also eager to connect the societal perspective I developed through my architecture background to questions about **how AI can shape the future of embodied work**.
 
 <div class="research-sections">
   <details>
@@ -46,7 +46,7 @@ Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI inter
       [Research Journey]
     </summary>
     <p style="margin-top: 0.5em;">
-      I previously worked with Professor Dina El Zanfaly in the [EM]BODIED COMPUTATIONS LAB and was advised by Professors Daragh Byrne and Sinan Goral during my master’s thesis at Carnegie Mellon University, where I earned a Master of Science in Computational Design. Currently, I’m collaborating with postdoctoral fellow Georgie Qiao Jin at Carnegie Mellon University on research exploring AI for children’s physical activity play.
+      I previously worked with Professor [Dina El Zanfaly](https://www.design.cmu.edu/profiles/dina-el-zanfaly) from the School of Design in the [EM]BODIED COMPUTATIONS LAB (https://embodiedcomputations.org/) on AI-XR for welding training and ceramic making. During my master’s thesis at the School of Architecture, Carnegie Mellon University, I was advised by Professor [Daragh Byrne](http://daraghbyrne.me/) and [Sinan Goral](https://www.sinangoral.com/). My thesis focused on LLM hallucination in embodied media, and I earned a Master of Science in Computational Design. Currently, I am collaborating with postdoctoral fellow [Georgie Qiao Jin](http://georgiejin.com/) at Carnegie Mellon University’s Human-Computer Interaction Institute (HCII) on research exploring AI in children’s physical activity play.
     </p>
   </details>
 
@@ -55,7 +55,7 @@ Hi! I’m Hongfei, an independent researcher. I'm interested in **human-AI inter
       [Research Positioning]
     </summary>
     <p style="margin-top: 0.5em;">
-      My broader research area lies in <strong>Design</strong> in <strong>Human-Computer Interaction</strong>. I focus on <strong>embodied interaction</strong> and <strong>human-AI communication</strong>, drawing on insights from <strong>cognitive science</strong> and <strong>design methodology</strong> such as Research-through-Design and Speculative Design. I design, build artifacts, and also conduct qualitative study.
+      My broader research area lies in <strong>Design</strong> in <strong>Human-Computer Interaction</strong>. I focus on <strong>embodied interaction</strong> and <strong>human-AI communication</strong>, drawing on insights from <strong>cognitive science</strong> to reflect on the design process, and applying <strong>design methodologies</strong> such as Research-through-Design and Speculative Design. I design and build artifacts, and also conduct qualitative studies.
     </p>
   </details>
 
