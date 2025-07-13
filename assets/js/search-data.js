@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-i-will-serve-as-a-student-volunteer-and-present-our-work-reshaping-craft-learning-insights-from-designing-an-ai-augmented-mr-system-for-wheel-throwing-at-dis-25-this-might-mark-the-end-or-perhaps-the-beginning-of-my-research-journey",
           title: 'I will serve as a Student Volunteer and present our work, “Reshaping Craft...',
           description: "",
+          section: "News",},{id: "news-our-work-jump-stop-jump-again-exploring-ai-supported-physical-activity-play-at-home-with-parents-and-children-has-been-accepted-to-chi-play-work-in-progress-2025",
+          title: 'Our work “Jump, Stop, Jump Again: Exploring AI-Supported Physical Activity Play at Home...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
